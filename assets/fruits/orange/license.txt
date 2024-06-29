@@ -1,0 +1,8 @@
+Model Information:
+* title:	Orange Fruit
+* source:	https://sketchfab.com/3d-models/orange-fruit-5778d1bccf9f4a629c3a22e7e639b30e
+* author:	Re Na (https://sketchfab.com/renann)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
