@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fruits Mix
+* source:	https://sketchfab.com/3d-models/fruits-mix-4a39c3e12168467abb18d80c5824928d
+* author:	sinkevich.karoliina (https://sketchfab.com/sinkevich.karoliina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fruits Mix" (https://sketchfab.com/3d-models/fruits-mix-4a39c3e12168467abb18d80c5824928d) by sinkevich.karoliina (https://sketchfab.com/sinkevich.karoliina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
