@@ -11,6 +11,7 @@ Our user-friendly app caters to individuals of all ages, making it an ideal educ
 
 ## Live Demo / Link Preview
 ![image](https://github.com/igta12/Fruits_AugmentedReality/assets/95727662/ebda2cac-796d-433f-8c91-e5b6dacfdb11)
+
 Link : https://igta12.github.io/Fruits_AugmentedReality/about.html
 
 
