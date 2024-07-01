@@ -3,10 +3,12 @@ This website unveils an innovative AR experience that transforms your surroundin
 
 Our user-friendly app caters to individuals of all ages, making it an ideal educational tool for both children and adults. Whether you're seeking an engaging learning experience for your little ones or simply want to expand your fruit expertise, our AR adventure has something to offer everyone.
 
-# Video Demo
+## Video Demo
 
 
-# Image Preview
+## Image Preview
 
 
-# Live Demo / Link Preview
+## Live Demo / Link Preview
+![image](https://github.com/igta12/Fruits_AugmentedReality/assets/95727662/b3b2c826-e8ef-4e22-bf4a-0dcb56a105b2)
+
